@@ -6,7 +6,7 @@
 
 /*Construtor*/
 Elis::Application::Application()
- : filename("noname.txt"), window(new Elis::UI::Window()) {}
+ : filename("elis.txt"), window(new Elis::UI::Window()) {}
 
 Elis::Application::~Application()
 {}

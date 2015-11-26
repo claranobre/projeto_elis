@@ -1,4 +1,4 @@
-src/application.o: src/application.cpp src/../headers/application.h \
- src/../headers/../src/ui/window.h src/../headers/../src/ui/../list.cpp \
- src/../headers/../src/ui/../../headers/list.h \
- src/../headers/../src/ui/line.h src/../headers/keys.h
+application.o: application.cpp ../headers/application.h \
+ ../headers/../src/ui/window.h ../headers/../src/ui/../list.cpp \
+ ../headers/../src/ui/../../headers/list.h ../headers/../src/ui/line.h \
+ ../headers/keys.h
