@@ -1,7 +1,6 @@
 CC = g++
 CFLAGS = -Wall -g -std=c++11
 SRCDIR = src
-TESTDIR = test
 DOCDIR = doc
 
 SUBDIRS = $(SRCDIR) $(TESTDIR)
