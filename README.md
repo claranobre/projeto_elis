@@ -1,7 +1,7 @@
 ELIS
 ====
 
-Editor de tExtos orientado a LinhaS, ou simplesmente ELIS, é um programa de linha de comando desenvolvido como projeto na disciplina de *Estruturas de dados básicas I*.
+Editor de textos orentado a LInhaS, ou simplesmente ELIS, é um programa de linha de comando desenvolvido como projeto na disciplina de *Estruturas de dados básicas I*.
 
 ## Como compilar
 
