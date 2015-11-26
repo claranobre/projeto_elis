@@ -1,1 +1,1 @@
-list.o: list.cpp list.h
+list.o: ../src/list.cpp list.h

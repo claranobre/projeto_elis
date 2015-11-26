@@ -1,2 +1,4 @@
-application_tests.o: application_tests.cpp catch.h ../src/application.h \
- ../src/ui/window.h ../src/list.cpp ../src/list.h ../src/ui/line.h
+application_tests.o: application_tests.cpp catch.h \
+ ../headers/application.h ../headers/../src/ui/window.h \
+ ../src/../src/list.cpp ../src/../src/../headers/list.h \
+ ../headers/../src/ui/line.h

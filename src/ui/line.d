@@ -1,1 +1,1 @@
-ui/line.o: ui/line.cpp ui/line.h
+line.o: line.cpp line.h

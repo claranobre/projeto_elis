@@ -1,6 +1,6 @@
 #include "catch.h"
 
-#include "application.h"
+#include "../headers/application.h"
 
 using namespace Elis;
 
