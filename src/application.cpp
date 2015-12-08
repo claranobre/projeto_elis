@@ -4,7 +4,11 @@
 
 #include "../headers/keys.h"
 
-/*Construtor*/
+/*
+ *Construtor
+ *@brief Classe que implementa os comandos executados pelo usuário no ELIS
+ *
+ */
 Elis::Application::Application()
  : filename("elis.txt"), window(new Elis::UI::Window()) {}
 
@@ -62,6 +66,7 @@ Elis::Application::run()
 
                     if (key == Elis::Keys::QUIT)
                         break;
+
                     else if (key == 'W' || key == 'w')
                     {
                         std::string s;
@@ -103,7 +108,7 @@ Elis::Application::parse_command_line(int argc, char const *argv[])
     if (argc < 2)
         return;
 
-    filename = argv[1]; /*argv = { “./elis”, “texto.txt”};*/
+    filename = argv[1]; /*argv = { “./elis”, “elis.txt”};*/
 }
 
 void

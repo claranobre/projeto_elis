@@ -17,4 +17,4 @@ Após compilado um arquivo executável `elis` estará disponível no diretório 
 
 ## Limitaçõe atuais
 
-Atualmente o `elis` é capaz apenas de escrever em arquivo o conteúdo digitado pelo usuário
+Atualmente o `elis` é capaz apenas de escrever em arquivo o conteúdo digitado pelo usuário, entender as teclas "space, enter, delete e backspace" e sair do programa.

@@ -8,8 +8,11 @@ namespace Elis
         QUIT = 'q',
         ENTER = '\n',
         ESCAPE = 27,
-        DELETE = 127,
+        DELETE =  'd',
         BACKSPACE = '\b',
+        HELP = 'h',
+        EDIT = 'i',
+        UNDO = 'u',
     };
 }
 
